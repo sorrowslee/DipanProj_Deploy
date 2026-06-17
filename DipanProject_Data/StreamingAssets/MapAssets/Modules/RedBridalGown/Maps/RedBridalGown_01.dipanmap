@@ -85,19 +85,6 @@
           "sortKey": -8.212624,
           "zOrder": 0,
           "hp": 1
-        },
-        {
-          "assetId": "Modules/RedBridalGown/Environment/decor_wedding_carpet",
-          "x": 9.416684,
-          "y": -5.27028131,
-          "rot": 0.0,
-          "flipX": false,
-          "flipY": false,
-          "scaleX": 1.0,
-          "scaleY": 1.0,
-          "sortKey": -5.27028131,
-          "zOrder": 0,
-          "hp": 1
         }
       ]
     },
