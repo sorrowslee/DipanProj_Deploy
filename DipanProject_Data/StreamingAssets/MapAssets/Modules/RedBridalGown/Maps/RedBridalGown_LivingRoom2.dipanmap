@@ -529,6 +529,35 @@
             "targetMapId": "6",
             "targetEntrance": "BridalRoom_south"
           }
+        },
+        {
+          "id": "f9dc1339",
+          "name": "道具拾取點1",
+          "typeId": "pickup",
+          "cells": [
+            [
+              6,
+              4
+            ]
+          ],
+          "params": {
+            "itemId": "101",
+            "count": "500"
+          }
+        },
+        {
+          "id": "760abd45",
+          "name": "劇情觸發點1",
+          "typeId": "drama",
+          "cells": [
+            [
+              3,
+              6
+            ]
+          ],
+          "params": {
+            "dramaId": "1"
+          }
         }
       ]
     }
