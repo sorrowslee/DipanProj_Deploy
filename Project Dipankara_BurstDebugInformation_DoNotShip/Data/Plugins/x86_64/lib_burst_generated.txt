@@ -1,4 +1,4 @@
-Library: /Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Temp/BurstOutput/Data/Plugins/x86_64/lib_burst_generated
+Library: /Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Temp/BurstOutput/Data/Plugins/x86_64/lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-18
 --target=X64_SSE2
@@ -9,10 +9,10 @@ Library: /Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Ma
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project Dipankara_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Temp/Burst
+--temp-folder=/Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Temp/Burst
 --key-folder=/Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=/Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Library/Burst
---output=/Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Temp/BurstOutput/Data/Plugins/x86_64/lib_burst_generated
+--decode-folder=/Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Library/Burst
+--output=/Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Temp/BurstOutput/Data/Plugins/x86_64/lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -56,10 +56,10 @@ Library: /Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Ma
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project Dipankara_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Temp/Burst
+--temp-folder=/Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Temp/Burst
 --key-folder=/Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=/Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Library/Burst
---output=/Users/sorrowslee/Documents/workspaces/myProject/DipanProj/DipanProj_Main/Temp/BurstOutput/Data/Plugins/x86_64/lib_burst_generated
+--decode-folder=/Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Library/Burst
+--output=/Users/sorrowslee/Developer/workingspace/DipanProj/DipanProj_Main/Temp/BurstOutput/Data/Plugins/x86_64/lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
