@@ -16,7 +16,7 @@
       "module": "Main",
       "pixelSize": 1288,
       "ppu": 256,
-      "frameCount": 25,
+      "frameCount": 15,
       "frames": [
         "Main/Environment/Buddha/Buddha_01.png",
         "Main/Environment/Buddha/Buddha_02.png",
@@ -32,17 +32,7 @@
         "Main/Environment/Buddha/Buddha_12.png",
         "Main/Environment/Buddha/Buddha_13.png",
         "Main/Environment/Buddha/Buddha_14.png",
-        "Main/Environment/Buddha/Buddha_15.png",
-        "Main/Environment/Buddha/Buddha_16.png",
-        "Main/Environment/Buddha/Buddha_17.png",
-        "Main/Environment/Buddha/Buddha_18.png",
-        "Main/Environment/Buddha/Buddha_19.png",
-        "Main/Environment/Buddha/Buddha_20.png",
-        "Main/Environment/Buddha/Buddha_21.png",
-        "Main/Environment/Buddha/Buddha_22.png",
-        "Main/Environment/Buddha/Buddha_23.png",
-        "Main/Environment/Buddha/Buddha_24.png",
-        "Main/Environment/Buddha/Buddha_25.png"
+        "Main/Environment/Buddha/Buddha_15.png"
       ]
     },
     {
